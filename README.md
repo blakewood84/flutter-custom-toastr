@@ -1,6 +1,6 @@
 # flutter_custom_toastr
 
-A new Flutter project.
+A custom toastr pop up for brief messages relating to actions
 
 ## Getting Started
 
